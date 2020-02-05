@@ -1,0 +1,63 @@
+/* general styles*/
+
+table{
+    width:100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/* total and item screens */
+
+.list__container{
+    height:400px;
+  
+    margin: 0;
+    padding:50px;
+}
+
+.total__container{
+    height:400px;
+    
+    margin: 0;
+}
+
+.total{
+   
+    margin-top: 10%;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    
+   
+}
+
+
+.btn__co{
+    
+     position: block;
+     height:30px;
+     width:100px;
+     
+     padding:0;
+     margin:auto;
+    
+    
+}
+
+.products{
+    height:100px;
+    background-color: blue;
+}
+.product__holder{
+    margin:10px;
+}
+.products{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+    background-color: #16167C;
+    border:1px solid white;
+    padding-top: 10px;
+
+}

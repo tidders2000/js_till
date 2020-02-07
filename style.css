@@ -36,11 +36,11 @@ table{
 .btn__co{
     
      position: block;
-     height:30px;
-     width:100px;
-     
-     padding:0;
-     margin:auto;
+     height:100px;
+     width:100%;
+     font-size: 50px;
+     margin:20px;
+    
     
     
 }
@@ -50,7 +50,9 @@ table{
     background-color: blue;
 }
 .product__holder{
-    margin:10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 30px;
 }
 .products{
     text-align: center;

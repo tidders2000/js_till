@@ -10,14 +10,14 @@ table{
 /* total and item screens */
 
 .list__container{
-    height:400px;
+    height:300px;
   
     margin: 0;
     padding:50px;
 }
 
 .total__container{
-    height:400px;
+    height:300px;
     
     margin: 0;
 }
